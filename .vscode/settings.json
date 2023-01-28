@@ -1,3 +1,12 @@
 {
-    "nuxt.isNuxtApp": false
+    "grammarly.files.include": [
+        "**/*.md",
+        "**/*.txt",
+        "**/*.h",
+        "**/*.c",
+        "**/*.cpp",
+        "**/*.yml",
+        "**/*.yaml",
+        "**/*.dockerfile",
+    ],
 }
